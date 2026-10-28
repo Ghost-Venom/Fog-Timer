@@ -1,0 +1,6 @@
+node_modules/
+build/
+*.gcode
+*.3mf
+case/preview/
+case/viewer.html

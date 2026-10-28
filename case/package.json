@@ -1,0 +1,11 @@
+{
+  "name": "fog-timer-case",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node fog_case.mjs"
+  },
+  "dependencies": {
+    "manifold-3d": "3.0.1"
+  }
+}
